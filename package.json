@@ -1,14 +1,14 @@
 {
-  "name": "typescript-library-template",
+  "name": "cookie-preferences",
   "version": "0.0.0-development",
   "private": false,
-  "description": "TypeScript library template to focus on ⌨️ coding, 🙌 collaborating and 🚀 shipping",
+  "description": "Cookie preferences library",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vvo/typescript-library-template.git"
+    "url": "https://github.com/RafaelMLMacedo/cookie-preferences.git"
   },
   "license": "MIT",
-  "author": "Vincent Voyer <vincent@codeagain.com>",
+  "author": "Rafael Macedo <rafaelmacedo4@gmail.com>",
   "sideEffects": false,
   "main": "dist/index.js",
   "module": "dist/typescript-library-template.esm.js",
